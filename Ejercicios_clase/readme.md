@@ -6,4 +6,5 @@
 <a href="https://www.db-fiddle.com/f/qLP59SrBgmjs8CQJ7fcUmn/5"> Ejercicio Biblioteca 4 </a> <br>
 <a href="https://www.db-fiddle.com/f/qLP59SrBgmjs8CQJ7fcUmn/6"> Ejercicio Biblioteca 5 </a> <br>
 
-<a href="https://www.db-fiddle.com/f/iZvM9mJN4vijcYbYj5FbLa/0"> Ejercicio TIENDITA 0</a> <br>
+<a href="https://www.db-fiddle.com/f/iZvM9mJN4vijcYbYj5FbLa/0"> Ejercicio TIENDITA </a> <br>
+<a href="https://www.db-fiddle.com/f/iZvM9mJN4vijcYbYj5FbLa/1"> Ejercicio TIENDITA </a> <br>
